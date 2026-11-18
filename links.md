@@ -1,34 +1,31 @@
-1. Fauziya Momin — Personal & Hybrid Tech-Creative Portfolio
-Live Link: fauziya-portfolio.vercel.app
+## Selected Portfolio Projects
 
-Aesthetic & Format: Interactive Editorial & Modern Tech Showcase
+**1. Fauziya Momin — Personal Portfolio**  
+[Live Website](https://fauziya-portfolio.vercel.app)  
+*Interactive Editorial & Tech-Creative Showcase*  
+A multidisciplinary portfolio combining IT projects, creative operations, brand work, and digital storytelling.
 
-Overview: My flagship personal portfolio blending full-stack IT projects, creative brand operations, and digital storytelling into an interactive web experience. Built to demonstrate how multidisciplinary professionals can present both technical depth and creative execution beyond a static PDF resume.
+**2. ATELIER VANCE — Architecture & Equestrian**  
+[Live Website](https://equestrian-luxury-atelier.vercel.app)  
+*Luxury Monograph · Obsidian & Brass*  
+A cinematic portfolio for architects and spatial consultants, featuring immersive visuals, practice philosophy, project dossiers, and geographic credentials.
 
-2. Atelier Vance — Spatial & Equestrian Architecture Portfolio
-Live Link: equestrian-luxury-atelier.vercel.app
+**3. EDIT — Fashion & Creative Direction**  
+[Live Website](https://edit-five-ebon.vercel.app)  
+*High-Fashion Editorial & Lookbook*  
+A magazine-inspired portfolio for stylists, fashion professionals, PR specialists, and creative directors, built around refined typography and curated campaign visuals.
 
-Aesthetic & Format: Dark-Mode Luxury Monograph (#080807 Obsidian & #C5A059 Brass)
+**4. LEDGER — Finance & Corporate Strategy**  
+[Live Website](https://ledger-eta-ivory.vercel.app)  
+*Executive Ivory · Swiss Grid*  
+A structured executive portfolio for finance professionals, analysts, consultants, and business graduates, highlighting metrics, case studies, and credentials.
 
-Overview: Designed for principal architects, spatial planners, and specialized consultants. Features a full-bleed cinematic hero video, first-person practice philosophy, geographic mobility credentials, alternating lookbook rows, and dedicated structural engineering dossiers navigated natively via the browser's Back button.
+**5. DREAMHOUSE — Creative Portfolio**  
+[Live Website](https://dreamhouse-bento.vercel.app)  
+*Playful Pink · Modular Bento Grid*  
+A vibrant, personality-led portfolio for creators, marketers, designers, and students, featuring interactive project tiles, skills, and social proof.
 
-3. EDIT — Luxury, Fashion & Creative Direction Portfolio
-Live Link: edit-five-ebon.vercel.app
-
-Aesthetic & Format: High-Fashion Print Magazine & Editorial Lookbook
-
-Overview: Tailored for stylists, fashion brand managers, PR specialists, and creative directors. Uses crisp serif typography, negative space, and curated visual grids to frame campaigns, brand partnerships, and visual storytelling like a spread in a European fashion quarterly.
-
-4. LEDGER — Banking, Finance & Corporate Strategy Portfolio
-Live Link: ledger-eta-ivory.vercel.app
-
-Aesthetic & Format: Executive Ivory & Swiss Grid Financial Dossier
-
-Overview: Engineered for analysts, corporate finance professionals, consultants, and business graduates. Translates quantitative metrics, deal experience, case analyses, and leadership credentials into a structured, authoritative executive briefing that commands immediate credibility.
-
-5. DREAMHOUSE — Playful Bento-Grid Creative Portfolio
-Live Link: dreamhouse-bento.vercel.app
-
-Aesthetic & Format: Vibrant Pink Modular Bento-Box Layout
-
-Overview: Built for creators, lifestyle marketers, designers, and students who want an expressive, high-personality digital presence. Organizes skills, social proof, visual projects, and contact cards into interactive, color-coordinated bento tiles with bold typography and playful charm.
+**6. RAIL — Professional Portfolio**  
+[Live Website](https://rail-studio-portfolio.vercel.app)  
+*Studio Daylight · Split-Rail Editorial*  
+A clean, structured portfolio for product and growth professionals, combining a sticky profile panel, interactive case studies, and an editorial project layout.
