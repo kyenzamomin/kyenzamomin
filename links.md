@@ -25,6 +25,9 @@ A structured executive portfolio for finance professionals, analysts, consultant
 *Playful Pink · Modular Bento Grid*  
 A vibrant, personality-led portfolio for creators, marketers, designers, and students, featuring interactive project tiles, skills, and social proof.
 
+
+fauziya-zine-studio.vercel.app
+
 **6. RAIL — Professional Portfolio**  
 [Live Website](https://rail-studio-portfolio.vercel.app)  
 *Studio Daylight · Split-Rail Editorial*  
